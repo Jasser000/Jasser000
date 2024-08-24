@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! 👋, I'm Jasser</h1>
-<h3 align="center">Electrical Engineering Student with a Passion for Robotics and ROS Development</h3>
+<h3 align="center">Electrical Engineering Graduate with a Passion for Robotics and ROS Development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jasser-zaag-9a32a2163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasser-zaag-9a32a2163" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jasser-zaag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasser-zaag" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/zaagjasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zaagjasser" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/jasser000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jasser000" height="30" width="40" /></a>
 </p>
