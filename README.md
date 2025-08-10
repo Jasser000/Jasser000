@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpsanpuMXZqZXFqenJodHkyODJyYjFwOW83aW42ZWk0bDBwOGgyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ZkJqAt2t0jMx2GjEA/giphy.gif" width="600"/>
+  <img src="spot.gif" width="600" alt="Mobile robot animation GIF" />
 </p>
 
 ---
